@@ -1,0 +1,2 @@
+module forth_work {
+}
